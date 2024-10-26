@@ -4,9 +4,10 @@ Desafio: Desenvolvendo uma Landing Page
 
 Tecnologias usadas:
 
-![HTML5](https://github.com/douglasrcunha/desafio01_resolucao/blob/main/imagens/html.svg)
+* HTML5
 
-![CSS3](https://github.com/douglasrcunha/desafio01_resolucao/blob/main/imagens/css.svg)
+* CSS3
+
 
 ## 🔗 Links
 [Link do site disponibilizado](https://desafiobaseresolucao.netlify.app)
