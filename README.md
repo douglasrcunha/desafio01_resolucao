@@ -4,9 +4,9 @@ Desafio: Desenvolvendo uma Landing Page
 
 Tecnologias usadas:
 
-*HTML5
+* HTML5
 
-*CSS3
+* CSS3
 
 
 ## 🔗 Links
